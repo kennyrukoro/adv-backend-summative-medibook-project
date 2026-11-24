@@ -1,0 +1,16 @@
+{
+  "locale": "fr-FR",
+  "pageTitle": "Retour d'information sur le cours",
+  "instructions": "Veuillez répondre à chaque question en quelques phrases. Vos commentaires sincères nous aident à améliorer le cours.",
+  "dateLabel": "Date",
+  "languageLabel": "Langue",
+  "submit": "Envoyer le retour",
+  "notice": "Les réponses ne sont affichées que sur cette page ; elles ne sont pas enregistrées par cette démonstration.",
+  "questions": [
+    "Quel sujet de ce cours avez-vous trouvé le plus difficile, et pourquoi ?",
+    "Décrivez un concept que vous n'avez compris qu'après les travaux pratiques. Qu'est-ce qui a fait déclic ?",
+    "Comment votre approche de la conception des bases de données ou des API a-t-elle évolué depuis le début du trimestre ?",
+    "Qu'amélioreriez-vous dans la manière dont ce cours a été enseigné ou évalué ?",
+    "Comment comptez-vous appliquer ce que vous avez appris dans ce cours à l'avenir ?"
+  ]
+}
